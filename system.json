@@ -12,7 +12,7 @@
       "discord": ".pizzaWizard"
     }
   ],
-  "url": "https://github.com/Schmurf/deathwatch/blob/main/system.json",
+  "url": "https://github.com/Schmurf/deathwatch",
   "license": "LICENSE.txt",
   "readme": "README.md",
   "bugs": "https://github.com/Schmurf/deathwatch/issues",
@@ -41,8 +41,8 @@
   "packs": [],
   "packFolders": [],
   "socket": false,
-  "manifest": "Replace this with a link to the /latest release system.json so people can receive updates after they've installed the system",
-  "download": "This must link to a .zip file of the current version",
+  "manifest": "https://github.com/Schmurf/deathwatch/blob/main/system.json",
+  "download": "https://github.com/Schmurf/deathwatch/archive/refs/heads/main.zip",
   "background": "systems/deathwatch/assets/anvil-impact.png",
   "gridDistance": 5,
   "gridUnits": "ft",
