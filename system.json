@@ -12,10 +12,10 @@
       "discord": ".pizzaWizard"
     }
   ],
-  "url": "Replace this with a link to your public repository",
+  "url": "https://github.com/Schmurf/deathwatch/blob/main/system.json",
   "license": "LICENSE.txt",
   "readme": "README.md",
-  "bugs": "Replace this with a link to file issues or tickets",
+  "bugs": "https://github.com/Schmurf/deathwatch/issues",
   "changelog": "CHANGELOG.md",
   "media": [
     {
